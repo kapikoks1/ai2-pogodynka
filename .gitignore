@@ -18,3 +18,10 @@
 /public/assets/
 /assets/vendor/
 ###< symfony/asset-mapper ###
+.env
+.env.*
+!.env.test.dist
+!.env.example
+/var/
+/vendor/
+/node_modules/
